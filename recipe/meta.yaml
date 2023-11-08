@@ -1,5 +1,5 @@
 {% set name = "aurora" %}
-{% set version = "0.3.3" %}
+{% set version = "0.3.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/aurora-{{ version }}.tar.gz
-  sha256: 01fca52621c41361dde5d177662d7768ff355190c32136a11eaad46656e430b3 
+  sha256: 56056328ff83fa595c282ccf6d85ddfcd1736258cce8bf39249e4f5546cab618
 
 build:
   number: 0
