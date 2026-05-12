@@ -19,7 +19,7 @@ requirements:
   host:
     - pip
     - pytest-runner
-    - python >=3.8
+    - python >=3.10
   run:
     - matplotlib-base
     - mt-metadata
@@ -28,9 +28,9 @@ requirements:
     - numba
     - numpy
     - obspy
-    - pandas ==1.4.4
+    - pandas
     - psutil
-    - python >=3.8
+    - python >=3.10
     - scipy
     - xarray
 
