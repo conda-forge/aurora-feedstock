@@ -1,6 +1,6 @@
 {% set name = "aurora" %}
 {% set version = "0.6.2" %}
-{% set python_min = "3.11" %}
+{% set python_min = "3.10" %}
 
 
 package:
